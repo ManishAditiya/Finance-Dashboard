@@ -223,6 +223,6 @@ For the best development experience, install these extensions:
 
 ---
 
-## 📝 License
 
-This project was built as a frontend assignment submission. Feel free to use it as a reference or starting point for your own finance dashboard.
+
+
